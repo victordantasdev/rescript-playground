@@ -1,6 +1,6 @@
 # Rescript Playground
 
-> The purpose of this repository is to facilitate the testing of rescript code snippets
+The purpose of this repository is to facilitate the testing of rescript code snippets
 
 ## Instructions
 
